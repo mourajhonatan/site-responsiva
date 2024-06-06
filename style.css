@@ -3,12 +3,9 @@
     margin:0px;
 }
 ;:root{/*seletor raiz para variáveis*/
-    --cor-de-fundo:#bcbcee;
-    --cor-da-letra:#ffd000;
+    --cor-de-fundo:#0404ff;
+    --cor-da-letra:#fd8f00;
 }
 body{/*seletorbody*/
     background-color: var(--cor-de-fundo);
-}
-h1{
-background-color: aquamarine;    
 }
