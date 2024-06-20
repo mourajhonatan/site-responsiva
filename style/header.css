@@ -21,6 +21,7 @@
 
 
 .container__imagem{
-    padding: 1em;
+    padding: 1em
+    /*1m equivale a 16 megapixels*/;
 }
 
