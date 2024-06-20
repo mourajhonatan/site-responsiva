@@ -1,3 +1,4 @@
+@import url(style/header.css);
 *{ /*Seletor universal para resetar as bordas da página*/
     padding:0px;
     margin:0px;
@@ -9,6 +10,11 @@
 body{/*seletorbody*/
     background-color: var(--cor-de-fundo);
 }
-.cabecalho{
-    
+.cabeçalho__menu-hamburguer {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-image: url("../img/Menu.svg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
